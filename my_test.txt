@@ -1,1 +1,2 @@
 this is ver01
+this is test for checkout from remote repository
